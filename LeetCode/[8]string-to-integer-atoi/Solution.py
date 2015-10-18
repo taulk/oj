@@ -1,8 +1,8 @@
 class Solution(object):
     def toi(self, str):
         numbers="0123456789"
-				# read the docs. really cool next(). https://docs.python.org/2/library/functions.html#next
-				# see: http://stackoverflow.com/questions/9868653/find-first-list-item-that-matches-criteria
+# read the docs. really cool next(). https://docs.python.org/2/library/functions.html#next
+# see: http://stackoverflow.com/questions/9868653/find-first-list-item-that-matches-criteria
         s = str[:next((i for i in range(len(str)) if str[i] not in '0123456789'), len(str))]
         if len(s) == 0:
             return 0
