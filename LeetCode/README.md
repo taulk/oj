@@ -14,3 +14,5 @@
 
 [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
+[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+
