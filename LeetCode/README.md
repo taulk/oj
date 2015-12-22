@@ -30,3 +30,4 @@
 
 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
+[3Sum](https://leetcode.com/problems/3sum/)
